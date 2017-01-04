@@ -1,0 +1,36 @@
+#container {
+    background-color: #6688CC;
+    width: auto;
+    height: 4000;
+    padding-top: 40px;
+}
+
+#quotebox {
+    position: relative;
+    background-color: #EEEEEE;
+    width: 300px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 80px;
+    padding: 10px;
+}
+
+#quote {
+    font-family: Arial, sans-serif;
+}
+
+#buttons {
+    position: absolute;
+    bottom: 0px
+}
+
+#btnTwitter {
+    float: left;
+}
+
+#btnNewQuote {
+    position: absolute;
+    float: right;
+    right: -240px;
+}
